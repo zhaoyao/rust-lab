@@ -1,0 +1,10 @@
+[package]
+name = "p2pf"
+version = "0.1.0"
+authors = ["赵耀 <zhaoyaoa@ennew.cn>"]
+
+[dependencies]
+clap = "2.26.0"
+futures = "0.1.14"
+tokio-core = "0.1.11"
+hyper = "0.11.2"
