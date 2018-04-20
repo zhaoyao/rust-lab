@@ -1,0 +1,14 @@
+[package]
+name = "socks5"
+version = "0.1.0"
+authors = ["赵耀 <zhaoyaoa@ennew.cn>"]
+
+[dependencies]
+tokio = "0.1.5"
+tokio-core = "^0.1"
+trust-dns = "0.13.0"
+bytes = "0.4.6"
+futures = "^0.1"
+byteorder = "1.2.2"
+log = "0.4.0"
+env_logger = "0.5.8"

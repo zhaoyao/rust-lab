@@ -7,7 +7,6 @@ use hyper::{Chunk, Result, StatusCode};
 use hyper::error::Error;
 use hyper::header::ContentLength;
 use hyper::server::{Http, Request, Response, Service};
-
 use std::fs::File;
 use std::io::{self, Read};
 use std::thread;

@@ -1,0 +1,7 @@
+[package]
+name = "send-test"
+version = "0.1.0"
+authors = ["赵耀 <zhaoyaoa@ennew.cn>"]
+
+[dependencies]
+futures = "^0.1"
